@@ -1,12 +1,9 @@
-<<<<<<< HEAD
+
 
 Site for restaurant on React + TypeScript, Redux toolkit
 
 
-=======
-Site for restaurant on React + TypeScript, Redux toolkit
 
->>>>>>> 1d0b8b24403fbf277f545fa38b7c8a00fb52a684
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
